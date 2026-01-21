@@ -37,10 +37,10 @@ Ready in 60 Seconds! ⏱️
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/nutrilife-analytics.git
+git clone https://github.com/Bharadwaj-dev-tech/HelthCareDashboard.git
 
 # 2. Navigate to project
-cd nutrilife-analytics
+cd HelthCareDashboard
 
 # 3. Install dependencies
 pip install -r requirements.txt
@@ -58,33 +58,6 @@ venv\Scripts\activate     # Windows
 
 </div>
 
----
-
- 📁 Project Structure
-
-```
-nutrilife-analytics/
-│
-├── 📂 app.py                    # Main application with all features
-├── 📂 requirements.txt          # Dependencies list
-├── 📂 README.md                # This documentation
-│
-├── 📂 visualizations/          # (Future) Custom chart modules
-│   ├── __init__.py
-│   ├── timeline_charts.py
-│   └── geographic_maps.py
-│
-├── 📂 data/                    # (Future) Data storage
-│   ├── sample_datasets/
-│   └── export_templates/
-│
-└── 📂 assets/                  # (Future) Static assets
-    ├── images/
-    ├── icons/
-    └── styles/
-```
-
----
 
  🎮 Dashboard Navigation Guide
 
